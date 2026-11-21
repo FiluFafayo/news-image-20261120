@@ -1,6 +1,11 @@
+[![make.fun · news-image-20261120](https://make.fun/badge/news-image-20261120.svg)](https://make.fun/bounty/news-image-20261120?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261120)
+[![rank](https://make.fun/badge/news-image-20261120/FiluFafayo/news-image-20261120/rank.svg)](https://make.fun/bounty/news-image-20261120/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261120)
+[![reward](https://make.fun/badge/news-image-20261120/FiluFafayo/news-image-20261120/reward.svg)](https://make.fun/bounty/news-image-20261120?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261120)
+
 # Sum up 20 November's world news in one image
 
-Entry for the make.fun bounty `news-image-20261120` ($250, 50 places).
+Entry for the [make.fun](https://make.fun/bounty/news-image-20261120) bounty
+`news-image-20261120` ($250, 50 places).
 
 The program copies the front-page image beside it to `/output/entry.png`
 (see `main.ts`). The image is a one-page newspaper front page for
